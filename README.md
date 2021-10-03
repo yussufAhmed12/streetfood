@@ -9,7 +9,7 @@ Here is a working live demo: https://mohamedissack.github.io/Street-Food-Website
 # Mobile support
 The website is compatible with devices of all sizes
 
-# vDevelopment
+# Development
 Want to contribute? Awesome! To fix a bug or enhance an existing module, follow these steps:
 
 Fork the repo
@@ -19,10 +19,12 @@ Add changes to reflect the changes made
 Commit your changes (git commit -am 'Improve feature')
 Push to the branch (git push origin improve-feature)
 Create a Pull Request
-Built with
-HTML .
-css .
-Author
+
+# Built with
+HTML 
+css 
+
+# Author
 M0hamed Issack Abdi
 License
 [MIT]
