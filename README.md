@@ -25,6 +25,6 @@ HTML
 css 
 
 # Author
-Yussuf 
+Yussuf Ahmed
 License
 [MIT]
