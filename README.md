@@ -4,7 +4,7 @@
 This is a project dedicated to a street food website
 
 # Demo
-Here is a working live demo: https://mohamedissack.github.io/Street-Food-Website/
+Here is a working live demo:
 
 # Mobile support
 The website is compatible with devices of all sizes
