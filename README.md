@@ -25,6 +25,6 @@ HTML
 css 
 
 # Author
-M0hamed Issack Abdi
+
 License
 [MIT]
